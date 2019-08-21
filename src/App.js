@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API Cause this is so fun!</h1>
+      <h1>Create React App + Go API Cause Nicholas is awesome!</h1>
       <h2>
         Deployed with{" "}
         <a
